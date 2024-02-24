@@ -1,0 +1,31 @@
+  .nav1{
+    top: 0px;
+    /* background-color: #B8860B; */
+    background-color: rgb(164, 30, 30);
+    padding-bottom: 10px;  
+    position: fixed;
+    width: 100%;
+    
+  }
+  .nav2{
+    display: inline-block;
+    margin-right: 10px;
+    padding-left: 20px;
+    height: 12px;
+    
+  }
+  .nav2{
+    float: right;
+  }
+  .logout
+  {
+    width:15px;
+    height: 15px;
+    padding-right: 10px;
+  }
+
+
+  
+ 
+
+  
