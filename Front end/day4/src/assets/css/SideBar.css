@@ -1,0 +1,32 @@
+.leftsidebar {
+    width: 150px;
+    height: 650px;
+    position: fixed;
+    top: 0px;
+    left: 0;
+    /* background-color:#B8860B; */
+    background-color: rgb(164, 30, 30);
+    padding-top: 70px;
+    padding-bottom: 100px;
+    color: white;
+  }
+  
+ 
+
+  
+  a {
+    text-decoration: none;
+    color: white;
+    
+    display: block;
+  }
+  
+  a:hover {
+    background-color: black;
+    color: white;
+  }
+
+  .ele{
+    font-size: large;
+    padding-left: 20px;
+  }
